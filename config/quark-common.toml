@@ -548,7 +548,7 @@
 	"Monster Box" = true
 	"Glimmering Weald" = true
 	"Fairy Rings" = true
-	Corundum = false
+	Corundum = true
 	"Chorus Vegetation" = true
 	"Blossom Trees" = true
 	"Big Stone Clusters" = true
